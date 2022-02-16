@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pman47
-- 👀 I’m interested in coding.
+- 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently learning MERN stack.
 - 📫 Reach me through [linkedin](https://www.linkedin.com/in/pman47)
 
