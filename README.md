@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manish Prajapati. - [@pman47]()
+- 👋 Hi, I’m Manish Prajapati. - [@pman47](https://github.com/pman47)
 - 👀 I’m interested in Full Stack Web Development.
 - 🌱 I’m currently learning MERN stack.
 - 📫 Reach me through [linkedin](https://www.linkedin.com/in/pman47)
