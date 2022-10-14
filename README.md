@@ -1,12 +1,12 @@
 ## <img src="https://media.giphy.com/media/3owyplYLWlGFQk9mF2/giphy.gif" width="60px"> I'm Manish Prajapati
 
-
-
 * 🌍  I'm based in India
 * 🧑‍💻  I'm a Software Developer
 
 <a href="https://www.github.com/pman47" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pman47?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+[![@pman47's Holopin board](https://holopin.me/pman47)](https://holopin.io/@pman47)
 
 ### Skills
 
