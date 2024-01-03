@@ -1,7 +1,7 @@
 # 💫 About Me:
-🌍  I'm based in India
+🧑‍💻  Passionate full stack web developer.
 <br />
-🧑‍💻  I'm currently working as a Software Developer.
+🕸️ Visit my [Portfolio](http://pman47.vercel.app/) .
 <br />
 <br />
 [![wakatime](https://wakatime.com/badge/user/3c4e9725-90b1-4432-88e7-ea80bfda3cae.svg)](https://wakatime.com/@3c4e9725-90b1-4432-88e7-ea80bfda3cae)
@@ -19,22 +19,5 @@
 <br />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pman47&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pman47&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pman47&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-<br />
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pman47&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
-<br />
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pman47&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-<br />
-
-### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=pman47&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=pman47&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
