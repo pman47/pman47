@@ -2,11 +2,6 @@
 🧑‍💻  Passionate full stack web developer.
 <br />
 🕸️ Visit my [Portfolio](http://pman47.vercel.app/) .
-<br />
-<br />
-[![wakatime](https://wakatime.com/badge/user/3c4e9725-90b1-4432-88e7-ea80bfda3cae.svg)](https://wakatime.com/@3c4e9725-90b1-4432-88e7-ea80bfda3cae)
-
-<br />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pman47) 
